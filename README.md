@@ -1,6 +1,9 @@
 # Final project
 `Space Invader Remaster`
 
+## SFML Library has been used in this project
+### We used C++ too
+
 Project by Kassab John & Jacques Hugo
 
 So..
